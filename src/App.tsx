@@ -17,7 +17,6 @@ const App = () => {
       </Show>
       <GridItem area={'main'} >
         <GameGrid />
-        main
       </GridItem>
     </Grid>
     </>
